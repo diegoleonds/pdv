@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Café",
+      "priceCents": 750 
+    },
+    {
+      "name": "Chá",
+      "priceCents": 675 
+    },
+    {
+      "name": "Cappuccino",
+      "priceCents": 1200 
+    },
+    {
+      "name": "Latte",
+      "priceCents": 1100 
+    },
+    {
+      "name": "Mocha",
+      "priceCents": 1300 
+    },
+    {
+      "name": "Café com Leite",
+      "priceCents": 900
+    },
+    {
+      "name": "Espresso Duplo",
+      "priceCents": 950
+    },
+    {
+      "name": "Chocolate Quente",
+      "priceCents": 1150
+    },
+    {
+      "name": "Pão de Queijo",
+      "priceCents": 850
+    },
+    {
+      "name": "Croissant",
+      "priceCents": 1400
+    },
+    {
+      "name": "Bolo de Cenoura",
+      "priceCents": 950
+    },
+    {
+      "name": "Bolo de Chocolate",
+      "priceCents": 1000
+    },
+    {
+      "name": "Torrada com Manteiga",
+      "priceCents": 700
+    },
+    {
+      "name": "Sanduíche Natural",
+      "priceCents": 1600
+    },
+    {
+      "name": "Suco Natural",
+      "priceCents": 1200
+    }
+  ]
+}
